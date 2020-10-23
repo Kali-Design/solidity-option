@@ -19,7 +19,7 @@ contract FirstIco {
   ) public {
     _price = price;
     _seller = seller;
-    //Token is deployed at 0x0f4abBBfb617D300913eAbF688C777C1783a3392
+    //Token is deployed at 0x0f4abBBfb617D300913eAbF688C777C1783a33**
     token = FirstErc20(erc20Address);
   }
 
